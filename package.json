@@ -1,0 +1,26 @@
+{
+  "name": "comicfury-discord-webhook",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "repository": "git@github.com:ronthecookie/comicfury-discord-webhook.git",
+  "author": "Ron B <me@ronthecookie.me>",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "@types/cheerio": "^0.22.28",
+    "@types/dotenv-safe": "^8.1.1",
+    "@types/node": "^15.0.0",
+    "@types/node-fetch": "^2.5.10",
+    "@types/ws": "^7.4.2",
+    "cheerio": "^1.0.0-rc.6",
+    "discord.js": "^12.5.3",
+    "dotenv-safe": "^8.2.0",
+    "enmap": "^5.8.4",
+    "node-fetch": "^2.6.1",
+    "ts-node": "^9.1.1",
+    "typescript": "^4.2.4"
+  },
+  "scripts": {
+    "start": "ts-node src",
+    "build": "tsc"
+  }
+}
