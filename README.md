@@ -1,6 +1,6 @@
 # comicfury-discord-webhook
 
-This is a little Node.js application to scrape a comicfury comic site for new pages and post them in a discord channel.
+This is a little Node.js application to scrape a [ComicFury](https://comicfury.com) comic site for new pages and post them in a discord channel.
 
 ## Usage
 Set the environment variables using Docker for [the image](https://github.com/ronthecookie/comicfury-discord-webhook/packages/756211) or using the `.env` file for other configurations.
