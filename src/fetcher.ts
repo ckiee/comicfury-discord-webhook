@@ -66,7 +66,7 @@ export class ComicWebhook extends WebhookClient {
 
         if (!bannerURL || !title) throw new Error("Failed to parse archive page meta");
 
-        return { pages, bannerURL, title };
+        return { pages: pages.sort((a, b) => a.id - b.id), bannerURL, title };
     }
 
     async poll() {
