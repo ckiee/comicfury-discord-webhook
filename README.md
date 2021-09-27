@@ -8,7 +8,7 @@ Set the environment variables using Docker for [the image](https://github.com/ro
 The list of supported environment variables can be found in the `.env.example` file.
 
 ## License
-Copyright (C) 2021 Ron B
+Copyright (C) 2021 ckie
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by

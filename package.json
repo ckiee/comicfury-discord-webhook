@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "src/index.ts",
   "repository": "git@github.com:ronthecookie/comicfury-discord-webhook.git",
-  "author": "Ron B <me@ronthecookie.me>",
+  "author": "ckie <npm-12fb912@ckie.dev>",
   "license": "GPL-3.0",
   "dependencies": {
     "@types/cheerio": "^0.22.28",
