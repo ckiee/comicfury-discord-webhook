@@ -3,7 +3,7 @@
 This is a little Node.js application to scrape a [ComicFury](https://comicfury.com) comic site for new pages and post them in a discord channel.
 
 ## Usage
-Set the environment variables using Docker for [the image](https://github.com/ronthecookie/comicfury-discord-webhook/packages/756211) or using the `.env` file for other configurations.
+Set the environment variables using Docker for [the image](https://github.com/ckiee/comicfury-discord-webhook/packages/756211) or using the `.env` file for other configurations.
 
 The list of supported environment variables can be found in the `.env.example` file.
 
